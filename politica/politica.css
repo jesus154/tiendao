@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,700i,900,900i');
+/* DIV PRINCIPAL EMAIL */
+.rodape-mail-ILM {
+  text-align: center;
+  width: 700px;
+  border: 1px solid #eee;
+  padding: 20px 5px;
+  margin:0 auto;
+}
+
+
+/* REDES SOCIAIS DIV */
+.social-email {
+  background: #323233;
+  padding: 21px 0px;
+}
+.social-email .titulo-small-social {
+  font-size: 15px;
+  color: #fff;
+  font-weight: 600;
+  font-family: lato;
+}
+.social-email .titulo-small-social b {
+  font-size: 16px;
+  font-weight: 800;
+}
+.social-email .titulo-principal-social {
+  font-size: 18px;
+  color:#fff;
+  font-weight: 600;
+  font-family: lato;
+  display:block;
+  margin-top: 15px;
+}
+.social-email ul {
+  padding:0px;
+  margin: 0px;
+  margin-top:10px;
+}
+.social-email li {
+display: inline;
+ margin-right: 5px;
+}
+
+
+/* FORMAS DE PAGAMENTO DIV */
+.pagamento-email {
+  padding: 20px 0px;
+}
+.pagamento-email .titulo-formas-pagamento {
+  color: #666666;
+  font-family: lato;
+  display: block;
+  font-size: 18px;
+  margin-bottom:10px;
+}
+.pagamento-email .text-forma-pagamento {
+  color: #727272;
+  font-size: 13px;
+  font-family: open sans;
+}
+
+/* FRETE GRATIS DIV */
+.frete-gratis-email {
+  padding: 25px 0px;
+  border-top: 1px solid #e6e6e6;
+  border-bottom: 1px solid #e6e6e6;
+  background: #fcfcfc;
+}
+.frete-gratis-email .texto-frete-gratis {
+  color: #666666;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: lato;
+}
+.frete-gratis-email .texto-frete-gratis b {
+  color: #ff4b4c;
+}
+
+
+/* LOJA SEGURA DIV */
+.selos-email {
+  padding: 40px 0px;
+}
+.selos-email .texto-loja-segura {
+  color: #666666;
+  font-family: lato;
+  font-size: 18px;
+  display:block;
+  margin-bottom:20px;
+}
+
+
+/* LINK ILUMINIM DIV */
+.loja-iluminim {
+   padding: 25px 0px;
+  border-top: 1px solid #e6e6e6;
+  border-bottom: 1px solid #e6e6e6;
+    background: #fcfcfc;
+}
+.loja-iluminim .link-iluminim {
+  color: #666666;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: lato;
+}
+.loja-iluminim .link-iluminim a {
+    color: #000;
+  font-size: 18px;
+  font-weight: 800;
+  font-family: lato;
+  text-decoration: none;
+}
+
+
+
+/* POLITICAS ILUMINIM DIV */
+.politicas-ILM {
+  padding: 45px 20px;
+  text-align: left;
+}
+.politicas-ILM .titulo-politica {
+  font-size: 15px;
+  font-family: lato;
+  color: 000;
+  font-weight:600;
+}
+.politicas-ILM .descricao-politica {
+  font-size: 14px;
+  color: #666666;
+  font-family: lato;
+  margin-top:5px;
+  margin-bottom: 25px;
+}
+.politicas-ILM .descricao-politica:last-child {
+  margin-bottom:0px;
+}
+
+
+/* TEXTO FINAL RODAPE DIV */
+.texto-rodape {
+  padding: 33px 20px; 
+  border-top: 1px solid #e6e6e6;
+}
+.texto-rodape .texto-rodape-mail {
+  margin: 0px;
+  color: #666666;
+  font-family: lato;
+  font-size: 12.5px;
+}
